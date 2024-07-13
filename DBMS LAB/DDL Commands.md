@@ -1,8 +1,8 @@
-1. ##CREATION OF TABLE
+## 1. CREATION OF TABLE
 
 create table employee(empno numeric(5),ename varchar(15),job varchar(15),deptno numeric(3));
 
-2. ## ALTER TABLE
+## 2. ALTER TABLE
 
 a) To add column to excisting table:
         alter table employee add(phone_no numeric(10));
@@ -15,18 +15,18 @@ d) modifying excisting column:
 e) To rename a column:
         alter table employee change column e_name varchar(25);
         
-3. ## RENAMING TABLE
+## 3. RENAMING TABLE
 
 alter table employee rename to emp;
 
-4. ## TRUNCATE TABLE
+## 4. TRUNCATE TABLE
 
 truncate table employee;
 
-5. ## DESTROYING TABLES
+## 5. DESTROYING TABLES
 
 drop table employee;
 
-6. ## DESCRIBING TABLES
+## 6. DESCRIBING TABLES
 
 desc employee
