@@ -18,3 +18,7 @@ accessible and safe for students and educators.
  While we strive to provide accurate and reliable simulations, users are encouraged to review and understand the code before running it. Always ensure that any modifications are tested in a controlled environment to avoid unexpected results.
 
 We hope these resources help in your educational journey and provide a deeper understanding of the subjects at hand. Happy learning!
+
+# Desclaimer:
+
+if any of the provided codes makes an error message please feel free to contact through 
