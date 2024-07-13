@@ -1,0 +1,143 @@
+<html>
+		<head>
+			<title>Basic HTML Tags </title>
+		</head>
+	<body>
+		<marquee>Basic HTML Tags</marquee>
+		<center>
+			<FONT COLOR="#FF0000" size=5>
+			</FONT>
+		</center>
+			<h1 align="center">Heading H1 - 24pt</h1>
+			<h2 align="right">Heading H2 - 18pt</h2>
+			<h3 align="left">Heading H3 - 12pt bold</h1>
+			<h4>Heading H4 - 12pt</h4>
+			<h5>Heading H5 - 10pt</h5>
+			<h6>Heading H6 - 17pt</h6>
+			 	<font size=7>Font Size -36pt,</font>
+			 	<font size=6>Font Size -24pt,</font>
+	 			<font size=5>Font Size -18pt,</font>
+	 			<font size=4>Font Size -12pt bold,</font>
+	 			<font size=3>Font Size -12pt plain,</font>
+	 			<font size=2>Font Size -9pt,</font>
+<hr>
+		<center>
+			<FONT COLOR="#00FF00" size=4>Text Elements=>font size -12,color- Green
+			</FONT>
+		</center>
+	<p>This is a Paragraph tag.
+	HTML5
+	One of the most importat technologies on this list
+	doesn't fully exists yet ----HTML5----but in 2008,
+	key features started to trickle out.
+	HTML5 will eventually replace HTML 4.01,the dominent
+	programming language currently used to build 
+	web page.But the governing bodies in charge of the
+	web are still drafting the details,and nobody
+	expects HTML5 to fully emerge as the new standard
+	for atleast a few more years.
+	</P>
+<hr>
+		<center>
+			<FONT COLOR="#0000FF">Linr Break Tags=>color - Blue
+			</FONT>
+		</center>
+	This is a long piece of text consisting of three<BR>
+	sentencec and shows you the functions of the<BR>
+	Line Breake tag.This tag is used quite frequently<BR>
+	to add line breaks in the HTML code.it is also used<BR>
+	to add blank lines to a document.<BR>
+<hr>
+		<center>
+			<FONT COLOR="#000FF">BLOCK QUOTE tags>
+			</FONT>
+		</center>
+	<p>This is some text before the quotation</p>
+	<block quote>This is a long block quote created with the<blockquote>tag.
+	</blockquote>
+	</blockquote>
+<hr>
+		<center>
+			<FONT COLOR="#000FF">PRE tags
+			</FONT>
+		</center>
+	<pre>
+	JAVA
+	OOPS LAB
+	WEB LAB
+	</pre>
+<hr>
+		<center>
+			<FONT COLOR=#000FF">Listing Tags
+			</FONT>
+		</center>
+	<h4>Numbered List : </h4>
+	<ol>
+		<li>java</li>
+		<li>perl</li>
+		<li>C++</li>
+	</ol>
+	<h4>Letters Listing : </h4>
+	<ol type="A">
+		<li>SMTP</li>
+		<li>HTTP</li>
+		<li>FTP</li>
+	</ol>
+	<h4>Lowercase letters Listing : </h4>
+	<ol type="a">
+		<li>PHP</li>
+		<li>Java Script</li>
+		<li>ajax</li>
+	</ol>
+	<h4>Roman Numbers Listing : </h4>
+	<ol type="I">
+		<li>DTE</li>
+		<li>JCTE</li>
+		<li>SITTR</li>
+	</ol>
+	<h4>Lower Case Roman Numbers Listing : </h4>
+	<ol type="i" start="4">
+		<li>Computer Engg.</li>
+		<li>Mechanical Engg.</li>
+		<li>Electronics Engg.</li>
+	</ol>
+	<h3>Here is a nested ordered list : </h3>
+	<ol type="I">
+		<li>Module 1</li>
+		<li>Module 2
+	<ol type="i">
+		<li>Module 2.1</li>
+		<li>Module 2.2</li>
+	</ol>
+		</li>
+		<li>Module 3</li>
+	</ol>
+	<h4>Disc bullets list : </h4>
+	<ul type="disc">
+		<li>Keyboad</li>
+		<li>Mouse</li>
+		<li>Monitor</li>
+	</ul>
+	<h4>Circle bullets list : </h4>
+	<ul type="circle">	
+		<li>CRT</li>
+		<li>LCD</li>
+		<li>LED</li>
+	</ul>
+	<h4>Square bullets list : </h4>
+	<ul type="square">
+		<li>Windows</li>
+		<li>Linux</li>
+		<li>Android</li>
+	</ul>
+	<h4>Definition bullets list : </h4>
+	<dl>
+		<dt>coffee</dt>
+			<dd>Black Coffee OR Milk Coffee</dd>
+		<dt>Milk</dt>
+			<dd>Hot White milk Coffee OR cold Chocolate Milk</dd>
+	</dl>
+<hr>
+</body>
+</html>	
+
