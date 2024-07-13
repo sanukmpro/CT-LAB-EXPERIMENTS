@@ -22,6 +22,6 @@ b) The UNIQUE Constraint defined at the the table level
 
 ## 4. NOT NULL
 
-a)Not Null
+a) Not Null
 -         CREATE TABLE Emp4(empno numeric(4),ename varchar(20) NOT NULL,design varchar(20),sal numeric(8,2));
 
