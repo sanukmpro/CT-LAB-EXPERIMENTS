@@ -25,4 +25,4 @@ if any of the provided codes makes an error message please feel free to contact 
 
 
 
-<p align="center"> # *ALL I PROVIDE ARE ONLY FOR EDUCATIONAL PURPOSES* </p>
+ #                                                      *ALL I PROVIDE ARE ONLY FOR EDUCATIONAL PURPOSES*
