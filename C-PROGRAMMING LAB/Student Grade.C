@@ -36,7 +36,6 @@ int main()
     else if (p<60 && p>=50) 
     {
         printf("grade : D\n");
-    
     }
     else if (p<50 && p>=40) 
     {
