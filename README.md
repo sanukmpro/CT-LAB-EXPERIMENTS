@@ -21,4 +21,8 @@ We hope these resources help in your educational journey and provide a deeper un
 
 # Desclaimer:
 
-if any of the provided codes makes an error message please feel free to contact through 
+if any of the provided codes makes an error message please feel free to contact me
+
+
+
+# *ALL I PROVIDE ARE ONLY FOR EDUCATIONAL PURPOSES* 
