@@ -1,0 +1,15 @@
+# Exp7 Android App
+
+## Overview
+Exp7 is an Android application created as part of an SDP Lab experiment.  
+It demonstrates navigation between multiple layouts (`LinearLayout`, `RelativeLayout`, `TableLayout`, and `ConstraintLayout`) using **Intents**.
+
+---
+
+## Features
+- **MainActivity**: LinearLayout with buttons to navigate to other activities.
+- **RelativeLayout Activity**: Login form with username, password fields, and a login button.
+- **TableLayout Activity**: Tabular form with username, password, checkbox, and login button.
+- **Login Activity**: Displays a centered welcome message using ConstraintLayout.
+
+
