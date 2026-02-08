@@ -11,5 +11,6 @@ The S6 folder includes:
 
 - **Lab Experiments**
   - SDP Lab exercises (UI design, activity navigation).
+  - CNE Lab exercises (Packet Tracer .pkt files).
 
 
